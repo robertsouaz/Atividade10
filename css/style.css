@@ -1,0 +1,17 @@
+.primiero
+{
+    background-color: beige;
+    color: blue;
+}
+.bloco
+{
+    background-color: aquamarine;
+    width: 120px;
+    height: 50px;
+    display: flex;
+}
+.bloco:hover
+{
+    background-color: rgb(224,27,106);
+    color: rgb(255, 255, 255);
+}
